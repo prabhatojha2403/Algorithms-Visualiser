@@ -1,5 +1,5 @@
 # Algorithms-Visualizer
-This is a project made for the Data Structures and Algorithms course in International University with main the purpose of visualizing some algorithms. The project is finished with our initial intentions completed.
+This is a project made for themain the purpose of visualizing some algorithms. The project is finished with my initial intentions completed.
 
 ## Pre-requisites
 This project is made with:
